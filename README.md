@@ -1,7 +1,5 @@
-
-
-
 ## 🔬 Breast Cancer Prediction using Machine Learning  
+
 
 A **futuristic AI-powered system** for early breast cancer detection using machine learning. This project leverages **FastAPI** for backend processing and a **modern frontend** for user interaction.  
 
@@ -90,11 +88,6 @@ axios.post("http://127.0.0.1:8000/predict", {
 
 ---
 
-## 🖼️ Screenshots  
-✨ _Add some cool images of your project here!_  
-
----
-
 ## 🤝 Contributing  
 🚀 Contributions are welcome! Feel free to fork this repository, create a new branch, and submit a pull request.  
 
@@ -107,9 +100,9 @@ axios.post("http://127.0.0.1:8000/predict", {
 
 ## 📬 Contact  
 For any queries or collaborations, reach out at:  
-📧 Email: [your-email@example.com](mayurff75@gmail.com)  
-🐙 GitHub: [Your GitHub](https://github.com/Mayurx75)  
-📷 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mayur-r-021b35329/)  
+📧 Email: (mayurff75@gmail.com)  
+🐙 GitHub: (https://github.com/Mayurx75)  
+📷 LinkedIn:(https://www.linkedin.com/in/mayur-r-021b35329/)  
 
 
 
@@ -122,4 +115,3 @@ For any queries or collaborations, reach out at:
 - **🤝 Contribution Guidelines**
 - **📬 Contact Information**
 
-This README is **structured, informative, and visually engaging with proper Markdown formatting**. Let me know if you need any modifications! 🚀🔥
