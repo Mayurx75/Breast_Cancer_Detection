@@ -14,7 +14,7 @@ A **futuristic AI-powered system** for early breast cancer detection using machi
 ---
 
 ## 🎥 Live Demo  
-🚀 **Check out the live demo:** [Demo Link](#) _(https://vocal-mousse-d9946c.netlify.app/)_  
+🚀 **Check out the live demo:** [https://vocal-mousse-d9946c.netlify.app/]
 
 ---
 
