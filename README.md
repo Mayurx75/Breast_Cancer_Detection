@@ -1,4 +1,4 @@
-## 🔬 Breast Cancer Prediction using Machine Learning  
+## 🔬 Breast Cancer Predictiion using Machine Learning  
 
 
 A **futuristic AI-powered system** for early breast cancer detection using machine learning. This project leverages **FastAPI** for backend processing and a **modern frontend** for user interaction.  
